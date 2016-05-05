@@ -1,3 +1,3 @@
 # Luminati Proxy Tool
 
-Moved to https://github.com/luminati-io/
+Moved to https://github.com/luminati-io/luminati-proxy
