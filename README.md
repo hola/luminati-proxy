@@ -1,6 +1,6 @@
 # Luminati Proxy Tool
 
-This tool requires a [Luminati] account.
+This tool requires a [Luminati] account, git (https://git-scm.com/downloads), and node (https://nodejs.org/en/download/)
 
 ### Installation
 ```sh
